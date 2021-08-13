@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="ru">
+    <head>
+        <title>by humankind</title>
+        <meta http-equiv="Content-type" content="text/html;charset=UTF-8"/>
+        <link rel="stylesheet" href="CSS\style.css">
+    </head>
+    <body>
+        <section id="block-a">
+            <div class="line1-a">
+                <div class="container1-a">
+                    <div class="el1-a">Shop All</div>
+                    <div class="el2-a">Save on Sets</div>
+                    <div class="el3-a">Plastic Offsets</div>
+                    <div class="el4-a">by Humankind</div>
+                    <div class="el5-a">Free shipping, always</div>
+                    <div class="el6-a">Account</div>
+                    <div class="el7-a">Cart</div>
+                </div>
+            </div>
+        </section>
+        <section id="block-b">
+            <div class="line1-b">
+                <div class="container1-b">
+                    <div class="el1-b">
+                        <h1>Our best-selling refillable deodorant, an a new scent for summer.</h1>
+                        <h2>Shop Lemongrass</h2>
+                    </div>
+                    <div class="el2-b">Shop Now</div>
+                </div>
+                <div class="container2-b">
+                        <div class="el3-b"></div>
+                        <div class="el4-b"></div>
+                        <div class="el5-b"></div>
+                </div>
+            </div>
+        </section>
+        <section id="block-c">
+            <div class="line1-c">
+                <div class="container1-c">
+                    <hr>
+                </div>
+            </div>
+        </section>
+        <section id="block-d">
+            <div class="line1-d">
+                <div class="container1-d">
+                    <h1>Designed to reduce single-use</h>
+                    <h2>plastic waste in your daily routine.</h>
+                    <h3>Scientifically-proven to perform.</h>
+                </div>
+            </div>
+        </section>
+        <section id="block-e">
+            <div class="line1-e">
+                <div class="container1-e">
+                    <div class="card-block-e">
+                        <div class="el-head" ><img src="img\el1-line5.png" alt=""></div>
+                        <div class="el-footer">Quick Add</div>
+                    </div>
+                    <div class="card-block-e">
+                        <div class="el-head-e"><img src="img\el2-line5.png" alt=""></div>
+                        <div class="el-footer-e">Quick Add</div>
+                    </div>
+                    <div class="card-block-e">
+                        <div class="el-head-e"><img src="img\el3-line5.png" alt=""></div>
+                        <div class="el-footer-e">Quick Add</div>
+                    </div>
+                    <div class="card-block-e">
+                        <div class="el-head-e"><img src="img\el4-line5.png" alt=""></div>
+                        <div class="el-footer-e">Quick Add</div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </body>
+</html>
